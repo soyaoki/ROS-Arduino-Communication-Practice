@@ -1,6 +1,4 @@
-# ROS-Arduino
-
-
+# ROS-Arduino-Communication-Practice
 
 ```sudo gpasswd --add $USER dialout```
 
